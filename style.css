@@ -1,16 +1,21 @@
 body {
-    background: rgb(216, 194, 159);
+    background: rgb(24, 43, 87);
   }
 
   .btn {
-    background-color: rgb(255, 196, 124);
+    background-color: rgb(36, 64, 128);
     border-radius: 5px;
     border: none;
     padding: 1.5rem 3rem;
     font-size: 1.2rem;
     cursor: pointer;
+    margin: 1rem;
   }
 
   .btn:hover {
     opacity: 0.9;
+  }
+
+  h1 {
+    text-align: center;
   }
