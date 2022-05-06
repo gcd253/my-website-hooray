@@ -1,0 +1,32 @@
+      <audio id="Coin" 
+      src="sounds/SMB Coin.mp3"></audio>
+
+      <audio id="Gameboy Advance" 
+      src="sounds/Gameboy Advance Startup.mp3"></audio>
+
+      <audio id="My Leg!!" 
+      src="sounds/My Leg!!!.mp3"></audio>
+
+      <audio id="Nintendo DS" 
+      src="sounds/Nintendo DS Start-Up.mp3"></audio>
+
+      <audio id="Pixar Lamp" 
+      src="sounds/Pixar Lamp.mp3"></audio>
+
+      <audio id="Running" 
+      src="sounds/Cartoon Running - Sound Effect (HD).mp3"></audio>
+
+      <audio id="Spongebob Flute" 
+      src="sounds/SpongebobFlute.mp3"></audio>
+
+      <audio id="Warp Pipe" 
+      src="sounds/Warp Pipe.mp3"></audio>
+
+      <audio id="Wii" 
+      src="sounds/Wii Startup.mp3"></audio>
+
+      <audio id="Wii Sports" 
+      src="sounds/Wii Sports Intro.mp3"></audio>
+
+      <audio id="Xbox" 
+      src="sounds/Xbox Startup.mp3"></audio>

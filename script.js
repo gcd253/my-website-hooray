@@ -3,8 +3,8 @@ h2.textContent = "This content added by JavaScript";
 
 document.querySelector("body").appendChild(h2);
 
-const sounds = ["running", "Nintendo DS", "Gameboy Advance", "Wii",
-"Wii Sports", "Pixar Lamp"]
+const sounds = ["Coin", "Gameboy Advance", "My Leg!!", "Nintendo DS", "Pixar Lamp",
+"Running", "Spongebob Flute", "Warp Pipe", "Wii", "Wii Sports", "Xbox"]
 
 sounds.forEach(sound => {
     const btn = document.createElement("button")
