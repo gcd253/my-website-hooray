@@ -30,3 +30,7 @@
 
       <audio id="Xbox" 
       src="sounds/Xbox Startup.mp3"></audio>
+
+
+      ["Coin", "Gameboy Advance", "My Leg!!", "Nintendo DS", "Pixar Lamp",
+"Running", "Spongebob Flute", "Warp Pipe", "Wii", "Wii Sports", "Xbox"]
