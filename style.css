@@ -22,6 +22,9 @@ body {
   h1 {
     color: rgb(110, 149, 182);
     text-align: center;
+    font-size: 3rem;
+    padding-top: 20px;
+    padding-bottom: 10px;
   }
 
   h1, h2, p {
@@ -30,4 +33,10 @@ body {
 
   .about {
     padding-left: 25px;
+  }
+
+  div#buttons {
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
   }
